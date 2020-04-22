@@ -1,2 +1,2 @@
 # Simple-Text-Classification-
-Text Classification of a movie dataset
+IMDB movie dataset used
